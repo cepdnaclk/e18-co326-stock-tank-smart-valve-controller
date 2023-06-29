@@ -30,8 +30,9 @@ This is a sample image, to show how to add images to your page. To learn more op
 1. Introduction
 2. Problem Definition
 3. Proposed Solution
-4. Functionality
-5. Links
+4. High Level Solution Architecture
+5. Functionality
+6. Links
 
 ---
 
@@ -46,6 +47,10 @@ Now a days there are ball valves to control the liquid level of the tanks. But t
 ## Proposed Solution
 
 The proposed solution is stock tank smart valve controller which can be used to control the valve atuomatically and manually. we can use smart device to control the valve without physically turning on/off the valve.
+
+## High Level Solution Architecture
+![Presentation1](https://github.com/cepdnaclk/e18-co326-stock-tank-smart-valve-controller/assets/73745793/dfc54724-5604-4d91-a57b-08fa9db1eb4f)
+
 
 ## Functionality
 - Measuring the liquid level
