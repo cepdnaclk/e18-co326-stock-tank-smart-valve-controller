@@ -20,10 +20,6 @@
         {
             "name": "Dr. Eng. Kamalanath Samarakoon",
             "email": "kamalanath@eng.pdn.ac.lk"
-        },
-        {
-            "name": "Supervisor 2",
-            "email": "email@eng.pdn.ac.lk"
         }
     ],
     "tags": ["SCADA", "NodeRED", "MQTT", "ESP32"]
