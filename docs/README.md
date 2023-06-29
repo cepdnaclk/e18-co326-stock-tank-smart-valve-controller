@@ -9,7 +9,7 @@ title:
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Project Title
+# Stock Tank Smart Valve Controller
 
 ---
 
@@ -20,9 +20,9 @@ This is a sample image, to show how to add images to your page. To learn more op
  -->
 
 ## Team
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
+-  E/18/036, Bandara L.R.M.U, [e18036@eng.pdn.ac.lk](mailto:name@email.com)
+-  E/18/150, Jayarathne H.M.Y.S, [e18150@eng.pdn.ac.lk](mailto:name@email.com)
+-  E/18/181, Konara K.M.S.L, [e18181@eng.pdn.ac.lk](mailto:name@email.com)
 
 ## Table of Contents
 1. [Introduction](#introduction)
