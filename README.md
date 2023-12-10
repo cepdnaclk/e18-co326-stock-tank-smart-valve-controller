@@ -31,7 +31,7 @@ The stock tank smart valve controller is system which measure the liquid level o
 
 ## Problem Definition
 
-Now a days there are ball valves to control the liquid level of the tanks. But the issue is we can't control the ball valve manually, bol valve may not have built-in smart connectivity or the ability to integrate with other devices or systems.
+Now a days there are ball valves to control the liquid level of the tanks. But the issue is we can't control the ball valve manually, ball valve may not have built-in smart connectivity or the ability to integrate with other devices or systems.
 
 ## Proposed Solution
 
