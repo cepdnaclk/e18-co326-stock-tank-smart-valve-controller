@@ -6,8 +6,8 @@
 const int trigPin = 5;    // GPIO2
 const int echoPin = 18;   // GPIO4
 const int ledPin = 15;    // GPIO15
-const char* ssid="laksh's iPhone";
-const char* pass="Konara98@";
+const char* ssid="Wifi";
+const char* pass="Passcode";
 const char* brokerUser="";
 const char* brokerPass="";
 const char* broker="91.121.93.94"; //test.mosquitto.org
